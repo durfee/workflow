@@ -1,0 +1,31 @@
+# Questions
+
+*Why?*
+1. Where do you feel stuck?
+2. Where do things feel broken?
+3. What politics are involved here?
+4. What do you wish you had more time to do?
+5. What makes you angry?
+6. When do you find yourself losing track of time?
+7. What things do you find yourself complaining about?
+8. If you had an extra hour in the day, how would you spend it?
+9. What is wasted?
+What wears you out?
+10. What problem are we solving? Why this a problem worth solving?
+11. Currently, what things make this problem worse? What things make this problem less of a problem?
+12. What don’t we understand yet?
+13. What are the edges of the problem? What is out of bounds of this problem space, or what problem are we not solving?
+14. What ways have people tried to solve this problem previously? Were they successful?
+15. What are we most passionate about?
+16. What behaviors need to happen in order for this initiative to be successful?
+17. What do you wish someone else would do for you?
+18. If this product were magic, how would that experience look?
+19. What battle are we fighting?
+20. Who is the hero in this story? What makes them a hero?
+21. What achievements are we most proud of?
+22. What characteristics or attributes of this thing or this group are we most proud of?
+23. At the end of the day, what is the story we want to tell?
+24. In what ways may our educational background influence the way we understand this thing? What about cultural or socioeconomic background?
+25. How will we handle conflict?
+26. What are we assuming will happen if we build this?
+27. If I could know anything in the world about how people are using my product, what would I want to know to in order to tell me whether or not my product was successful?
