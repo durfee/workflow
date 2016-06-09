@@ -26,7 +26,10 @@ Your post doesn't have to say "RAAAHHH I'M GONNA FINISH THIS FEATURE!!" because 
 
 ```
   Bob Ross: Here's my daily stand up:
-  Yesterday, I said I was going to work on painting some trees, painting a lake, and recording at least two episodes. I painted some trees, got half way done with the lake, but didn't get to recording the second episode because I got high.
+  Yesterday, I said I was going to work on painting some trees, painting a lake, 
+  and recording at least two episodes. I painted some trees, got half way done with the lake, 
+  but didn't get to recording the second episode because I got high.
+  
   Today I'm going to work on painting some more and recording that second episode.
 
 ```
