@@ -1,0 +1,10 @@
+1. Do you think this is a problem?
+2. Do you already have a system in place for monitoring the temperature of your fridges? If so, what is it?
+3.  What is wasted? do you ever find yourself throwing out food because a fridge was too warm? Is this a consideration that comes to mind often?
+4. What ways have people tried to solve this problem previously? Were they successful? Have you tried using a product like this before?
+5. In your day to day operations, what things do you find yourself complaining about?
+6. Currently, what things might make this problem worse or exaserbate the issue? 
+7. What are we assuming will happen if we build this?
+8. What are the most/least appealing aspects of this product?
+9. If this product were magic, how would that experience look?
+10. What don’t we understand yet?
