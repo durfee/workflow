@@ -26,7 +26,10 @@ Your post doesn't have to say "RAAAHHH I'M GONNA FINISH THIS FEATURE!!" because 
 
 ```
   Bob Ross: Here's my daily stand up:
-  Yesterday, I said I was going to work on painting some trees, painting a lake, and recording at least two episodes. I painted some trees, got half way done with the lake, but didn't get to recording the second episode because I got high.
+  Yesterday, I said I was going to work on painting some trees, painting a lake, 
+  and recording at least two episodes. I painted some trees, got half way done with the lake, 
+  but didn't get to recording the second episode because I got high.
+  
   Today I'm going to work on painting some more and recording that second episode.
 
 ```
@@ -35,12 +38,14 @@ A daily stand up should always answer 'What am I going to work on today?', but c
 ## Planning
 ### Trello
 We use Trello for managing our development and to-dos. 
-Here's the flow. 
+Here's the flow.
+
 1. To-be-implimented features go in the features column. 
 2. When you've decided to tackle something, assign the card to yourself and drag it to the in development column. 
 3. Once it's ready for review, move it along to the review section and nag a couple people about giving some feedback. 
 4. If everything is groovy, place it in the finished column. If it needs more work, repeat step 2.
 5. Repeat until the sprint is finished.
+
 • Things that are blocked either due to _force majeure_, broken things or otherwise go in the Blocked column.
 ### Github
 If you're developing, follow [thoughtbot's](https://github.com/thoughtbot/guides/tree/master/protocol/git) guide for git protocol. (TL;DR: make feature branch, code passes tests, rebase interactively and pull upstream changes, write a good commit message, merge, delete local and repo branches). 
@@ -48,6 +53,7 @@ If you're developing, follow [thoughtbot's](https://github.com/thoughtbot/guides
 ## Additional reading
 ### Product design
 Julie Zhou's blog ["The Year of the looking glass"](https://medium.com/the-year-of-the-looking-glass/building-products-91aa93bea4bb#.pcsoxep8r) is pretty much a god send. Read it, love it.
+
 Thoughtbot's [playbook](playbook.thoughtbot.com) is 80% of what I'm basing this off of.
 
 Questions? Comments? PR + edit.
